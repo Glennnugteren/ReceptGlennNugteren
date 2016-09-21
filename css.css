@@ -1,0 +1,25 @@
+
+body{
+	background: url(mijnachtergrond.jpg) no-repeat center center fixed;
+	background-size: cover;	
+	display: inline;
+	text-align: center;
+}
+
+
+h3 {
+	text-transform: uppercase;
+	outline-style: solid;
+	outline-color: lightblue;
+	outline-width: 3px;
+	margin-left: 680px;
+	margin-right:680px;
+	text-align: center;
+}
+p {
+	font-size: 25px;
+}
+
+h1 {
+	text-align: center;
+}
